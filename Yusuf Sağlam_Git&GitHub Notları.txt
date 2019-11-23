@@ -1,0 +1,20 @@
+
+-Versiyon kontrol sistemi
+-Tek dosya ,takip edebilme, versiyon güncelleme konusunda kolaylık
+-bedava ve açık kaynaktır
+-github git in arayüzü
+-cd komutu dosya geçişi sağlar
+-local kullanıcılar için kullanıcı bilgileri gitbash e girildi
+-git init repository i oluşturan komuttur
+-commit eklemek için git add. kullanabiliriz
+-git status durumumuzu gösterir
+-git log yaptığımız değişiklikleri gösterir
+-git add .  yaptığımız değişikliği ekler
+-git commit -m""  ise add yaptığımızı bir mesaj ile bildiririz
+-git reset --hard  komutu sayesinde commit adresi ile geçmişe dönebiliriz kaydedilen adreslere git log komutu ile ulaşabiliriz
+-git diff aynı commit üzerinde yaptığımız farklılıkları gösterir.
+-git branch komutu hangi dalda olduğumu gösterir
+-git branch " "  komutu yeni dal eklememize yarar
+-git checkout "" dallar arası geçiş komutu.
+-git merge "isim" birleştirme yapar
+-
