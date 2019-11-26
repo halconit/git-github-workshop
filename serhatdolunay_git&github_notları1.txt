@@ -1,0 +1,8 @@
+yazdığımız yazılımları kayıt altına alır.
+yazılımlarımızda yaptığımız değişiklikleri ilk haliyle birlikte kaydeder. 
+nerelerde değişiklikler yaptığımızı gösterir.
+açık kaynak olduğundan dolayı herkes yazılımlarımıza ulaşıp onları düzenleyebilir.(ama sadece bizim onayladıklarımız kaydedilir)
+giti yükledik sonra repostories klasörünü oluşturduk ve isim e-mail ekledik.
+git init repostories oluşturuyor 
+git status durumumuzu gösteriyor
+git lot kaç tane commitimizin olduğunu gösteriyor
